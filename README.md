@@ -37,7 +37,7 @@ Aeris is a modern weather application built with React and TanStack Query that p
 1. Clone the repository
 
 ```bash
-git clone https://github.com/chauhan-varun/aeris-weather-app.git
+git clone https://github.com/MidnightCoderr/aeris-weather-app.git
 cd aeris-weather-app
 ```
 
